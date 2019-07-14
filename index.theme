@@ -127,7 +127,7 @@ maxsize=512
 Type=Scalable
 
 [128x128/mimetypes]
-Context=mimetypes
+Context=MimeTypes
 Size=128
 minsize=8
 maxsize=512
@@ -148,7 +148,7 @@ maxsize=512
 Type=Scalable
 
 [128x128@x2/mimetypes]
-Context=mimetypes
+Context=MimeTypes
 Size=128
 minsize=8
 maxsize=512
