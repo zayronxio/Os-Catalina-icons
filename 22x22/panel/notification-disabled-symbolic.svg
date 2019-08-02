@@ -160,6 +160,14 @@
          style="stop-color:#a0d5ff;stop-opacity:1"
          id="stop5267" />
     </linearGradient>
+    <filter
+       style="color-interpolation-filters:sRGB"
+       id="filter7554-5">
+      <feBlend
+         mode="darken"
+         in2="BackgroundImage"
+         id="feBlend7556-6" />
+    </filter>
   </defs>
   <g
      style="display:inline"
@@ -1130,7 +1138,7 @@
      id="layer1-3"
      transform="matrix(0.8747286,0,0,0.8747286,-227.78498,-6.562477)" />
   <path
-     style="color:#bebebe;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.4;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#bebebe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.22005153;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     style="color:#bebebe;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:0.4;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#202020;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.22005153;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      d="m 17.159691,3.9315714 -2.794834,2.794832 C 13.826259,5.9938336 13.054563,5.4493582 12.149491,5.2146711 c 3.43e-4,-0.010874 0,-0.020572 0,-0.031536 0,-0.559061 -0.450075,-1.0091354 -1.009136,-1.0091354 -0.559061,0 -1.009135,0.4500744 -1.009135,1.0091354 0,0.01096 -3.43e-4,0.02066 0,0.031536 C 8.3874406,5.6668366 7.1038138,7.24619 7.1038138,9.1566065 c 0,0.02148 -3.229e-4,0.04167 0,0.06307 0,2.0235575 6.972e-4,6.0548115 -1.7975223,6.0548115 -0.119799,0 -0.2207484,0.112519 -0.2207484,0.252283 v 0.478946 L 3.4930015,17.59826 4.4370949,18.544324 18.105755,4.8756645 Z M 15.176896,9.1526645 8.0439653,16.283625 h 7.1329307 1.797522 c 0.119801,0 0.220749,-0.112518 0.220749,-0.252284 v -0.504569 c 0,-0.139763 -0.10095,-0.252283 -0.220749,-0.252283 -1.805254,0 -1.797522,-4.031618 -1.797522,-6.0548115 3.24e-4,-0.02141 0,-0.04159 0,-0.06307 v -0.0039 z M 9.2482264,17.29276 c 0.2757337,0.58976 1.0116046,1.009135 1.8921286,1.009135 0.880524,0 1.616396,-0.419375 1.89213,-1.009135 z"
      id="rect3022"
      inkscape:connector-curvature="0" />

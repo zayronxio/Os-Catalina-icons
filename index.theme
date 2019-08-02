@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Os-Catalina
+Name=Os-Catalina-xfce
 Comment=fork of "Mojave CT icons", is composed only icons in svg format
 Inherits=breeze,gnome,hicolor
 

@@ -183,46 +183,6 @@
          style="stop-color:#a0d5ff;stop-opacity:1"
          id="stop5267" />
     </linearGradient>
-    <filter
-       id="filter7554-8"
-       style="color-interpolation-filters:sRGB">
-      <feBlend
-         id="feBlend7556-04"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       id="filter7554-2"
-       style="color-interpolation-filters:sRGB">
-      <feBlend
-         id="feBlend7556-69"
-         in2="BackgroundImage"
-         mode="darken" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter7554-5-8">
-      <feBlend
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend7556-4-1" />
-    </filter>
-    <filter
-       id="filter7554-6-9"
-       style="color-interpolation-filters:sRGB">
-      <feBlend
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend7556-6-4" />
-    </filter>
-    <filter
-       style="color-interpolation-filters:sRGB"
-       id="filter7554-7">
-      <feBlend
-         mode="darken"
-         in2="BackgroundImage"
-         id="feBlend7556-0" />
-    </filter>
   </defs>
   <rect
      style="opacity:1;fill:#3b3b3b;fill-opacity:0;stroke:none;stroke-width:0.1;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
@@ -232,7 +192,7 @@
      x="0"
      y="0" />
   <path
-     style="color:#31363b;opacity:1;fill:#202020;fill-opacity:1;stroke:none;stroke-width:0.12475635;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
+     style="color:#31363b;opacity:1;fill:#f8f8f9;fill-opacity:1;stroke:none;stroke-width:0.12475635;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.29943501"
      d="M 11.992188 2.0019531 C 7.9992669 2.0135095 2.9765625 5 2.9765625 11.03125 C 2.9765625 15.842977 7.1882748 20 12 20 L 12 22 C 14.429342 21.9951 21 18.237816 21 12 C 21 7 17.999287 1.9845672 11.992188 2.0019531 z M 8 10 L 16 10 C 16.554 10 17 10.446 17 11 C 17 11.554 16.554 12 16 12 L 8 12 C 7.446 12 7 11.554 7 11 C 7 10.446 7.446 10 8 10 z "
      id="rect3353" />
 </svg>

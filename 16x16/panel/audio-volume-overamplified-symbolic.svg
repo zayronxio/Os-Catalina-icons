@@ -187,19 +187,19 @@
      x="0"
      y="-8" />
   <path
-     style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 0.915254,6 h 3 l 3,-3 v 10 l -3,-3 h -3 c -1,0 -1,0 -1,-1 V 7 c 0,-1 0,-1 1,-1 z"
      id="path844"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccccccc" />
   <path
-     style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 7.915254,11 c 2,-2 2,-4 0,-6 V 4 c 3,2 3,6 0,8 z"
      id="path846"
      inkscape:connector-curvature="0"
      sodipodi:nodetypes="ccccc" />
   <path
-     style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 9.915254,3 c 2.79661,3.6271186 2.79661,6.4067797 0,10 v 1 c 3.881356,-3.855932 3.881356,-8.1456251 0,-12 z"
      id="path848"
      inkscape:connector-curvature="0"
@@ -209,5 +209,5 @@
      inkscape:connector-curvature="0"
      id="path838"
      d="m 13,2 c 2.467702,4 2.449901,7.7457627 0,12 v 1 C 16.639044,11 16.49784,5 13,1 Z"
-     style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     style="fill:#202020;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 </svg>
