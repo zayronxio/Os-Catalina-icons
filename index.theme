@@ -26,7 +26,7 @@ DialogSizes=16,22,32,48,64,128,256
 FollowsColorScheme=true
 
 # Directory list
-Directories=16x16/actions,16x16/panel,16x16/devices,16x16/places,16x16/status,16x16@2x/actions,16x16@2x/devices,16x16@2x/panel,16x16@2x/places,16x16@2x/status,22x22/actions,22x22/panel,22x22@2x/actions,22x22@2x/panel,24x24/panel,24x24@2x/panel,22x22/places,22x22@2x/places,24x24/places,24x24@2x/places,128x128/apps,128x128/devices,128x128/mimetypes,128x128/places,128x128@x2/apps,128x128@x2/devices,128x128@x2/mimetypes,128x128@x2/places
+Directories=16x16/actions,16x16/panel,16x16/devices,16x16/places,16x16/status,16x16@2x/actions,16x16@2x/devices,16x16@2x/panel,16x16@2x/places,16x16@2x/status,22x22/actions,22x22/panel,22x22@2x/actions,22x22@2x/panel,24x24/panel,24x24@2x/panel,22x22/places,22x22@2x/places,24x24/places,24x24@2x/places,64x64/apps,64x64@2x/apps,128x128/apps,128x128/devices,128x128/mimetypes,128x128/places,128x128@x2/apps,128x128@x2/devices,128x128@x2/mimetypes,128x128@x2/places
 
 
 [16x16/actions]
@@ -138,6 +138,20 @@ Type=Fixed
 Context=Status
 Size=24
 Type=Fixed
+
+[64x64/apps]
+Size=64
+Context=Applications
+MinSize=25
+MaxSize=512
+Type=Scalable
+
+[64x64@2x/apps]
+Size=64
+Context=Applications
+MinSize=25
+MaxSize=512
+Type=Scalable
 
 [128x128/devices]
 Context=Devices
