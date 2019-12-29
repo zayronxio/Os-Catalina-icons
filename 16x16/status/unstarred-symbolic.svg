@@ -11,7 +11,7 @@
    height="16"
    version="1.1"
    id="svg7"
-   sodipodi:docname="non-starred-symbolic.svg"
+   sodipodi:docname="unstarred-symbolic.svg"
    inkscape:version="0.92.4 (unknown)">
   <metadata
      id="metadata11">
@@ -21,7 +21,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -67,7 +66,7 @@
      id="path5"
      inkscape:connector-curvature="0" />
   <path
-     style="opacity:1;fill:#525252;fill-opacity:0.73109245;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.86666667"
+     style="opacity:1;fill:#525252;fill-opacity:0.09803922;stroke:none;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.86666667"
      d="M 8.0001909,2.5644148 9.6485423,6.8432885 14.220621,7.0835314 10.66739,9.9773669 11.840884,14.403663 8.0001909,11.915691 4.1594974,14.403663 5.3329924,9.9773669 1.77976,7.0835314 6.3518404,6.8432885 Z"
      id="rect816"
      inkscape:connector-curvature="0"

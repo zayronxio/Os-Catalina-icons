@@ -7,11 +7,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="22"
-   height="22"
+   width="16"
+   height="16"
    version="1.1"
    id="svg4"
-   sodipodi:docname="mail-send.svg"
+   sodipodi:docname="mail-sent-symbolic.svg"
    inkscape:version="0.92.4 (unknown)">
   <metadata
      id="metadata10">
@@ -37,26 +37,25 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1015"
+     inkscape:window-height="1016"
      id="namedview6"
      showgrid="false"
      inkscape:zoom="29.5"
-     inkscape:cx="5.579891"
+     inkscape:cx="11.020569"
      inkscape:cy="10.641458"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg4" />
   <path
-     style="overflow:visible;fill:#000000;fill-opacity:0.07999998;stroke-width:1.34915721"
-     d="M 18.027117,3.9642787 3.7134034,10.035485 8.3511311,12.351714 c 2.0817499,-1.933342 7.0867219,-5.7902651 8.7299949,-7.433539 -1.643273,1.6432739 -5.50553,6.650881 -7.4361742,8.732631 l 2.3214992,4.645632 6.063301,-14.3321593 z"
-     id="path817"
-     inkscape:connector-curvature="0" />
+     style="overflow:visible;fill:#000000;fill-opacity:0.08"
+     d="M 13.535156 2.4589844 L 2.9257812 6.9589844 L 6.3632812 8.6757812 C 7.9062812 7.2427813 11.615984 4.3840156 12.833984 3.1660156 C 11.615984 4.3840156 8.7532656 8.0956719 7.3222656 9.6386719 L 9.0429688 13.082031 L 13.537109 2.4589844 L 13.535156 2.4589844 z "
+     id="path817" />
   <path
-     d="M 20.421661,1.545261 0.67,10.024714 l 7.5336936,3.764148 3.7641484,7.529646 0.0094,0.0081 0.0054,0.0054 8.465961,-19.7813424 -0.0054,-0.0027 h -0.0081 -0.0054 c -0.0016,-0.0013 -0.0034,-0.00222 -0.0054,-0.0027 z M 18.029605,3.9642998 11.966493,18.296396 9.6459426,13.651248 C 11.576587,11.569499 15.437874,6.5614273 17.081148,4.9181539 15.437874,6.5614273 10.43385,10.418668 8.3521009,12.35201 L 3.7123494,10.035507 18.028256,3.9642998 Z"
+     d="m 15.31,0.666 -14.64,6.285 5.584,2.79 2.79,5.581 0.007,0.006 0.004,0.004 L 15.33,0.67 15.326,0.668 H 15.32 15.316 c -0.0012,-9.6008e-4 -0.0025,-0.001644 -0.004,-0.002 z M 13.537,2.459 9.043,13.082 7.323,9.639 C 8.754,8.096 11.616,4.384 12.834,3.166 11.616,4.384 7.907,7.243 6.364,8.676 L 2.925,6.959 13.536,2.459 Z"
      overflow="visible"
      id="path2"
      inkscape:connector-curvature="0"
-     style="overflow:visible;fill:#000000;fill-opacity:0.57983195;stroke-width:1.34915721"
+     style="overflow:visible;fill:#000000;fill-opacity:0.57983196"
      sodipodi:nodetypes="cccccccccccccccccccc" />
 </svg>
