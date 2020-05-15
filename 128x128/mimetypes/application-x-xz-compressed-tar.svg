@@ -15,7 +15,7 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg922"
-   inkscape:version="0.92.4 5da689c313, 2019-01-14"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="application-x-xz-compressed-tar.svg">
   <defs
      id="defs916">
@@ -93,17 +93,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="34.517379"
-     inkscape:cy="18.036754"
+     inkscape:zoom="5.6"
+     inkscape:cx="72.517659"
+     inkscape:cy="22.567755"
      inkscape:document-units="mm"
-     inkscape:current-layer="g2145"
+     inkscape:current-layer="g1776"
      showgrid="false"
      units="px"
-     inkscape:window-width="1920"
-     inkscape:window-height="1030"
+     inkscape:window-width="1918"
+     inkscape:window-height="1024"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="30"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata919">
@@ -113,7 +113,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1122,29 +1122,72 @@
          id="g36-6-8" />
       <g
          id="g1776"
-         transform="translate(-6.8317973)">
-        <text
-           xml:space="preserve"
+         transform="matrix(0.8431379,0,0,0.8431379,-213.97015,438.38453)">
+        <g
+           aria-label="TAR.XZ"
            style="font-style:normal;font-weight:normal;font-size:97.4330368px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#5b4b38;fill-opacity:1;stroke:none;stroke-width:9.83631992"
-           x="-1320.9882"
-           y="2813.1011"
-           id="text1770"><tspan
-             sodipodi:role="line"
-             id="tspan1768"
-             x="-1320.9882"
-             y="2813.1011"
-             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#5b4b38;fill-opacity:1;stroke-width:9.83631992">TAR.XZ</tspan></text>
-        <text
-           id="text1766"
-           y="2810.5771"
-           x="-1320.9882"
+           id="text1770">
+          <path
+             d="m -1320.5124,2742.072 h 65.4628 v 13.8443 h -23.5495 v 57.1848 h -18.3162 v -57.1848 h -23.5971 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#5b4b38;fill-opacity:1;stroke-width:9.83631992"
+             id="path1070" />
+          <path
+             d="m -1210.139,2800.1607 h -28.64 l -4.5196,12.9404 h -18.4115 l 26.3089,-71.0291 h 21.8368 l 26.3088,71.0291 h -18.4114 z m -24.0729,-13.1781 h 19.4581 l -9.7052,-28.2594 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#5b4b38;fill-opacity:1;stroke-width:9.83631992"
+             id="path1072" />
+          <path
+             d="m -1151.86,2773.5665 q 5.7565,0 8.2304,-2.1409 2.5215,-2.1408 2.5215,-7.041 0,-4.8527 -2.5215,-6.946 -2.4739,-2.0932 -8.2304,-2.0932 h -7.7071 v 18.2211 z m -7.7071,12.6549 v 26.8797 h -18.3163 v -71.0291 h 27.974 q 14.0345,0 20.5522,4.7099 6.5654,4.7099 6.5654,14.8909 0,7.0411 -3.4254,11.5607 -3.3778,4.5196 -10.2286,6.6604 3.7584,0.8564 6.708,3.9011 2.9973,2.9973 6.042,9.1344 l 9.9432,20.1717 h -19.5057 l -8.6586,-17.6502 q -2.6166,-5.3284 -5.3284,-7.279 -2.6641,-1.9505 -7.1362,-1.9505 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#5b4b38;fill-opacity:1;stroke-width:9.83631992"
+             id="path1074" />
+          <path
+             d="m -1100.0036,2794.6897 h 17.1269 v 18.4114 h -17.1269 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#5b4b38;fill-opacity:1;stroke-width:9.83631992"
+             id="path1076" />
+          <path
+             d="m -1024.3122,2776.8491 24.64373,36.252 h -19.07743 l -16.6036,-24.2631 -16.4609,24.2631 h -19.1726 l 24.6437,-36.252 -23.6922,-34.7771 h 19.1251 l 15.5569,22.8835 15.5093,-22.8835 h 19.2202 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#5b4b38;fill-opacity:1;stroke-width:9.83631992"
+             id="path1078" />
+          <path
+             d="m -992.19923,2742.072 h 59.70628 v 11.0849 l -38.10735,46.0999 h 39.20157 v 13.8443 h -61.89471 v -11.0849 l 38.10735,-46.0999 h -37.01314 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#5b4b38;fill-opacity:1;stroke-width:9.83631992"
+             id="path1080" />
+        </g>
+        <g
+           aria-label="TAR.XZ"
            style="font-style:normal;font-weight:normal;font-size:97.4330368px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f5f5f5;fill-opacity:1;stroke:none;stroke-width:9.83631992"
-           xml:space="preserve"><tspan
+           id="text1766"
+           transform="translate(-0.75595299,-0.49991194)">
+          <path
+             d="m -1320.5124,2739.5481 h 65.4628 v 13.8442 h -23.5495 v 57.1848 h -18.3162 v -57.1848 h -23.5971 z"
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#f5f5f5;fill-opacity:1;stroke-width:9.83631992"
-             y="2810.5771"
-             x="-1320.9882"
-             id="tspan1764"
-             sodipodi:role="line">TAR.XZ</tspan></text>
+             id="path1044"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -1210.139,2797.6368 h -28.64 l -4.5196,12.9403 h -18.4115 l 26.3089,-71.029 h 21.8368 l 26.3088,71.029 h -18.4114 z m -24.0729,-13.1782 h 19.4581 l -9.7052,-28.2594 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#f5f5f5;fill-opacity:1;stroke-width:9.83631992"
+             id="path1046"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -1151.86,2771.0426 q 5.7565,0 8.2304,-2.1409 2.5215,-2.1409 2.5215,-7.0411 0,-4.8526 -2.5215,-6.9459 -2.4739,-2.0933 -8.2304,-2.0933 h -7.7071 v 18.2212 z m -7.7071,12.6548 v 26.8797 h -18.3163 v -71.029 h 27.974 q 14.0345,0 20.5522,4.7099 6.5654,4.7099 6.5654,14.8909 0,7.041 -3.4254,11.5606 -3.3778,4.5196 -10.2286,6.6605 3.7584,0.8563 6.708,3.9011 2.9973,2.9972 6.042,9.1344 l 9.9432,20.1716 h -19.5057 l -8.6586,-17.6502 q -2.6166,-5.3283 -5.3284,-7.2789 -2.6641,-1.9506 -7.1362,-1.9506 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#f5f5f5;fill-opacity:1;stroke-width:9.83631992"
+             id="path1048"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -1100.0036,2792.1657 h 17.1269 v 18.4114 h -17.1269 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#f5f5f5;fill-opacity:1;stroke-width:9.83631992"
+             id="path1050"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -1024.3122,2774.3252 24.64373,36.2519 h -19.07743 l -16.6036,-24.2631 -16.4609,24.2631 h -19.1726 l 24.6437,-36.2519 -23.6922,-34.7771 h 19.1251 l 15.5569,22.8834 15.5093,-22.8834 h 19.2202 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#f5f5f5;fill-opacity:1;stroke-width:9.83631992"
+             id="path1052"
+             inkscape:connector-curvature="0" />
+          <path
+             d="m -992.19923,2739.5481 h 59.70628 v 11.0849 l -38.10735,46.0999 h 39.20157 v 13.8442 h -61.89471 v -11.0849 l 38.10735,-46.0999 h -37.01314 z"
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'SFNS Display';-inkscape-font-specification:'SFNS Display Bold';fill:#f5f5f5;fill-opacity:1;stroke-width:9.83631992"
+             id="path1054"
+             inkscape:connector-curvature="0" />
+        </g>
       </g>
     </g>
   </g>
