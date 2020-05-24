@@ -26,7 +26,7 @@ DialogSizes=16,22,32,48,64,128,256
 FollowsColorScheme=true
 
 # Directory list
-Directories=16x16/actions,16x16/panel,16x16/devices,16x16/places,16x16/status,16x16@2x/actions,16x16@2x/devices,16x16@2x/panel,16x16@2x/places,16x16@2x/status,22x22/actions,22x22/actions,24x24/apps,22x22/apps,22x22@2x/panel,22x22@2x/actions,22x22@2x/actions,24x24@2x/panel,24x24/panel,24x24@2x/panel,22x22/places,22x22@2x/places,24x24/places,24x24@2x/places,64x64/apps,64x64@2x/apps,128x128/apps,128x128/devices,128x128/mimetypes,128x128/places,128x128@2x/apps,128x128@2x/devices,128x128@2x/mimetypes,128x128@2x/places
+Directories=16x16/actions,16x16/panel,16x16/devices,16x16/places,symbolic/places,symbolic/actions,symbolic/panel,symbolic/devices,symbolic/status,16x16/status,16x16@2x/actions,16x16@2x/devices,16x16@2x/panel,16x16@2x/places,16x16@2x/status,22x22/actions,22x22/actions,24x24/apps,22x22/apps,22x22@2x/panel,22x22@2x/actions,22x22@2x/actions,24x24@2x/panel,24x24/panel,24x24@2x/panel,22x22/places,22x22@2x/places,24x24/places,24x24@2x/places,64x64/apps,64x64@2x/apps,128x128/apps,128x128/devices,128x128/mimetypes,128x128/places,128x128@2x/apps,128x128@2x/devices,128x128@2x/mimetypes,128x128@2x/places
 
 
 [16x16/actions]
@@ -64,6 +64,37 @@ Context=Places
 Size=24
 Type=Fixed
 
+[symbolic/places]
+Size=16
+Context=Places
+MinSize=8
+MaxSize=24
+Type=Scalable
+[symbolic/status]
+Size=16
+Context=Places
+MinSize=8
+MaxSize=24
+Type=Scalable
+[symbolic/devices]
+Size=16
+Context=Places
+MinSize=8
+MaxSize=24
+Type=Scalable
+[symbolic/panel]
+Size=16
+Context=Places
+MinSize=8
+MaxSize=24
+Type=Scalable
+[symbolic/actions]
+Size=16
+Context=Places
+MinSize=8
+MaxSize=24
+Type=Scalable
+
 [16x16/status]
 Context=Status
 Size=16
@@ -80,6 +111,8 @@ Context=Devices
 Size=1
 Scale=24
 Type=Fixed
+
+
 
 [24x24@2x/actions]
 Context=Actions
