@@ -15,7 +15,7 @@
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg958"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="applications-games.svg">
   <defs
      id="defs952">
@@ -95,15 +95,11 @@
        inkscape:collect="always"
        id="linearGradient1100">
       <stop
-         style="stop-color:#7eeeee;stop-opacity:0"
+         style="stop-color:#7eeeee;stop-opacity:0.02808989"
          offset="0"
          id="stop1096" />
       <stop
-         id="stop920"
-         offset="0.69999999"
-         style="stop-color:#7eeeee;stop-opacity:0" />
-      <stop
-         style="stop-color:#49f8ff;stop-opacity:0.91390729"
+         style="stop-color:#7eeeee;stop-opacity:0.92696631"
          offset="1"
          id="stop1098" />
     </linearGradient>
@@ -111,7 +107,7 @@
        inkscape:collect="always"
        id="linearGradient1090">
       <stop
-         style="stop-color:#5f03ff;stop-opacity:0.81456953"
+         style="stop-color:#5812d2;stop-opacity:1;"
          offset="0"
          id="stop1086" />
       <stop
@@ -235,6 +231,17 @@
        x2="-15.568449"
        y2="292.12238"
        gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1100"
+       id="radialGradient1102"
+       cx="-15.798501"
+       cy="297.12097"
+       fx="-15.798501"
+       fy="297.12097"
+       r="3.2072344"
+       gradientTransform="matrix(3.7294123,0.09276932,-0.02745979,1.1039099,51.175469,-30.932353)"
+       gradientUnits="userSpaceOnUse" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1110"
@@ -315,17 +322,6 @@
        x2="-30.97982"
        y2="274.44913"
        gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient1100"
-       id="radialGradient918"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.7783261,0,2.5733192e-8,1.6970807,12.429939,-209.1333)"
-       cx="-15.664762"
-       cy="297.97107"
-       fx="-15.664762"
-       fy="297.97107"
-       r="3.2072344" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -334,16 +330,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="49.601133"
-     inkscape:cy="60.74744"
+     inkscape:zoom="2.8"
+     inkscape:cx="16.208276"
+     inkscape:cy="65.568869"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1920"
-     inkscape:window-height="1023"
+     inkscape:window-height="1030"
      inkscape:window-x="0"
-     inkscape:window-y="29"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      units="px" />
   <metadata
@@ -354,7 +350,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -376,115 +372,118 @@
        cx="-15.702084"
        cy="295.99777" />
     <g
-       id="g1138"
-       transform="matrix(1.1925493,0,0,1.1925493,12.57546,-48.22402)">
-      <circle
-         r="10.370722"
-         cy="272.97485"
-         cx="1.2520452"
-         id="path1008"
-         style="fill:url(#linearGradient1016);fill-opacity:1;stroke-width:0.27265745" />
-      <circle
-         style="fill:url(#linearGradient1036);fill-opacity:1;stroke-width:0.27265745"
-         id="circle1028"
-         cx="1.2520452"
-         cy="272.97485"
-         r="10.370722" />
-      <ellipse
-         ry="3.141927"
-         rx="6.3311014"
-         cy="266.26578"
-         cx="1.3229165"
-         id="path1018"
-         style="fill:url(#linearGradient1026);fill-opacity:1;stroke-width:0.23899812" />
-      <circle
-         r="10.370722"
-         cy="272.97485"
-         cx="1.2520452"
-         id="circle1048"
-         style="fill:url(#radialGradient1050);fill-opacity:1;stroke-width:0.27265745" />
-      <circle
-         style="fill:url(#linearGradient1080);fill-opacity:1;stroke-width:0.27265745"
-         id="circle1072"
-         cx="1.2520452"
-         cy="272.97485"
-         r="10.370722" />
-    </g>
-    <g
-       id="g1131"
-       style="opacity:1"
-       transform="matrix(1.1925493,0,0,1.1925493,32.0978,-63.204428)">
-      <circle
-         r="5.1449385"
-         cy="295.99777"
-         cx="-15.702084"
-         id="path1084"
-         style="fill:url(#linearGradient1092);fill-opacity:1;stroke-width:0.27908105" />
-      <ellipse
-         ry="2.0045214"
-         rx="3.2072344"
-         cy="293.72592"
-         cx="-15.635267"
-         id="path1094"
-         style="fill:url(#radialGradient918);fill-opacity:1;stroke-width:0.26458332" />
-      <circle
-         r="0"
-         style="fill:url(#linearGradient1126);fill-opacity:1;stroke-width:0.27908105"
-         id="circle1104"
-         cx="-15.702084"
-         cy="295.99777" />
-    </g>
-    <g
-       id="g880"
+       id="g949"
        transform="matrix(1.1925493,0,0,1.1925493,59.986858,-49.180216)">
-      <circle
-         r="7.6185822"
-         cy="270.50079"
-         cx="-31.365635"
-         id="path1164"
-         style="opacity:0.65;fill:#f7d000;fill-opacity:1;stroke-width:0.32382587" />
-      <path
-         sodipodi:nodetypes="ccccc"
-         inkscape:connector-curvature="0"
-         id="circle862"
-         d="m -31.426083,264.02653 c -2.860031,-5e-5 -4.98959,1.56916 -4.98953,2.80549 -7.3e-5,1.23633 2.318478,2.23858 5.178518,2.23854 2.859885,-5e-5 5.178196,-1.00227 5.178123,-2.23854 6e-5,-1.23626 -2.507235,-2.80544 -5.367111,-2.80549 z"
-         style="opacity:0.65;fill:url(#radialGradient870);fill-opacity:1;stroke-width:0.16545956" />
-      <ellipse
-         ry="1.2756697"
-         rx="2.3977864"
-         cy="265.17911"
-         cx="-31.123976"
-         id="path867"
-         style="fill:url(#radialGradient875);fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       id="g888"
-       transform="matrix(1.1402541,0,0,1.1402541,58.904368,-22.524095)">
-      <circle
-         style="opacity:0.803;fill:url(#linearGradient900);fill-opacity:1;stroke-width:0.32382587"
-         id="circle882"
-         cx="-31.365635"
-         cy="270.50079"
-         r="7.6185822" />
-      <path
-         style="opacity:0.65;fill:url(#radialGradient890);fill-opacity:1;stroke-width:0.16545956"
-         d="m -31.426083,264.02653 c -2.860031,-5e-5 -4.98959,1.56916 -4.98953,2.80549 -7.3e-5,1.23633 2.318478,2.23858 5.178518,2.23854 2.859885,-5e-5 5.178196,-1.00227 5.178123,-2.23854 6e-5,-1.23626 -2.507235,-2.80544 -5.367111,-2.80549 z"
-         id="path884"
-         inkscape:connector-curvature="0"
-         sodipodi:nodetypes="ccccc" />
-      <ellipse
-         style="fill:url(#radialGradient892);fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         id="ellipse886"
-         cx="-31.123976"
-         cy="265.17911"
-         rx="2.3977864"
-         ry="1.2756697" />
-      <circle
-         r="7.6185822"
-         cy="270.50079"
-         cx="-31.365635"
-         id="circle920"
-         style="opacity:0.803;fill:url(#linearGradient928);fill-opacity:1;stroke-width:0.32382587" />
+      <g
+         transform="translate(-39.756342,0.80180858)"
+         id="g1138">
+        <circle
+           style="fill:url(#linearGradient1016);fill-opacity:1;stroke-width:0.27265745"
+           id="path1008"
+           cx="1.2520452"
+           cy="272.97485"
+           r="10.370722" />
+        <circle
+           r="10.370722"
+           cy="272.97485"
+           cx="1.2520452"
+           id="circle1028"
+           style="fill:url(#linearGradient1036);fill-opacity:1;stroke-width:0.27265745" />
+        <ellipse
+           style="fill:url(#linearGradient1026);fill-opacity:1;stroke-width:0.23899812"
+           id="path1018"
+           cx="1.3229165"
+           cy="266.26578"
+           rx="6.3311014"
+           ry="3.141927" />
+        <circle
+           style="fill:url(#radialGradient1050);fill-opacity:1;stroke-width:0.27265745"
+           id="circle1048"
+           cx="1.2520452"
+           cy="272.97485"
+           r="10.370722" />
+        <circle
+           r="10.370722"
+           cy="272.97485"
+           cx="1.2520452"
+           id="circle1072"
+           style="fill:url(#linearGradient1080);fill-opacity:1;stroke-width:0.27265745" />
+      </g>
+      <g
+         transform="translate(-23.386084,-11.759859)"
+         style="opacity:0.65"
+         id="g1131">
+        <circle
+           style="fill:url(#linearGradient1092);fill-opacity:1;stroke-width:0.27908105"
+           id="path1084"
+           cx="-15.702084"
+           cy="295.99777"
+           r="5.1449385" />
+        <ellipse
+           style="fill:url(#radialGradient1102);fill-opacity:1;stroke-width:0.26458332"
+           id="path1094"
+           cx="-15.635267"
+           cy="293.72592"
+           rx="3.2072344"
+           ry="2.0045214" />
+        <circle
+           cy="295.99777"
+           cx="-15.702084"
+           id="circle1104"
+           style="fill:url(#linearGradient1126);fill-opacity:1;stroke-width:0.27908105"
+           r="0" />
+      </g>
+      <g
+         id="g880">
+        <circle
+           style="opacity:0.65;fill:#f7d000;fill-opacity:1;stroke-width:0.32382587"
+           id="path1164"
+           cx="-31.365635"
+           cy="270.50079"
+           r="7.6185822" />
+        <path
+           style="opacity:0.65;fill:url(#radialGradient870);fill-opacity:1;stroke-width:0.16545956"
+           d="m -31.426083,264.02653 c -2.860031,-5e-5 -4.98959,1.56916 -4.98953,2.80549 -7.3e-5,1.23633 2.318478,2.23858 5.178518,2.23854 2.859885,-5e-5 5.178196,-1.00227 5.178123,-2.23854 6e-5,-1.23626 -2.507235,-2.80544 -5.367111,-2.80549 z"
+           id="circle862"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <ellipse
+           style="fill:url(#radialGradient875);fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path867"
+           cx="-31.123976"
+           cy="265.17911"
+           rx="2.3977864"
+           ry="1.2756697" />
+      </g>
+      <g
+         transform="matrix(0.95614841,0,0,0.95614841,-0.90771117,22.352217)"
+         id="g888">
+        <circle
+           r="7.6185822"
+           cy="270.50079"
+           cx="-31.365635"
+           id="circle882"
+           style="opacity:0.803;fill:url(#linearGradient900);fill-opacity:1;stroke-width:0.32382587" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           inkscape:connector-curvature="0"
+           id="path884"
+           d="m -31.426083,264.02653 c -2.860031,-5e-5 -4.98959,1.56916 -4.98953,2.80549 -7.3e-5,1.23633 2.318478,2.23858 5.178518,2.23854 2.859885,-5e-5 5.178196,-1.00227 5.178123,-2.23854 6e-5,-1.23626 -2.507235,-2.80544 -5.367111,-2.80549 z"
+           style="opacity:0.65;fill:url(#radialGradient890);fill-opacity:1;stroke-width:0.16545956" />
+        <ellipse
+           ry="1.2756697"
+           rx="2.3977864"
+           cy="265.17911"
+           cx="-31.123976"
+           id="ellipse886"
+           style="fill:url(#radialGradient892);fill-opacity:1;stroke:none;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <circle
+           style="opacity:0.803;fill:url(#linearGradient928);fill-opacity:1;stroke-width:0.32382587"
+           id="circle920"
+           cx="-31.365635"
+           cy="270.50079"
+           r="7.6185822" />
+      </g>
     </g>
   </g>
 </svg>
