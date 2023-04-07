@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
    viewBox="0 0 33.866666 33.866668"
    version="1.1"
    id="svg1015"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="3540_XVIIx86.0.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
+   sodipodi:docname="3540_XVIIx86.0.svg">
   <defs
      id="defs1009">
     <linearGradient
@@ -123,11 +123,11 @@
        inkscape:collect="always"
        id="linearGradient895">
       <stop
-         style="stop-color:#e16bff;stop-opacity:1"
+         style="stop-color:#f864f7;stop-opacity:1"
          offset="0"
          id="stop891" />
       <stop
-         style="stop-color:#6c21ce;stop-opacity:1"
+         style="stop-color:#8b0bcf;stop-opacity:1"
          offset="1"
          id="stop893" />
     </linearGradient>
@@ -135,11 +135,11 @@
        inkscape:collect="always"
        id="linearGradient879">
       <stop
-         style="stop-color:#db48ff;stop-opacity:1"
+         style="stop-color:#e84efc;stop-opacity:1"
          offset="0"
          id="stop875" />
       <stop
-         style="stop-color:#8427df;stop-opacity:0.96862745"
+         style="stop-color:#b20ce6;stop-opacity:1"
          offset="1"
          id="stop877" />
     </linearGradient>
@@ -164,7 +164,7 @@
        fy="4.670938"
        r="13.695572"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(4.8885673,0,0,1.8641486,-65.723642,-2.4382716)" />
+       gradientTransform="matrix(4.8885673,0,0,1.5420669,-65.723642,-0.93384819)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient884"
@@ -174,7 +174,7 @@
        x2="13.364421"
        y2="24.14933"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="translate(-0.0794191,-0.29918162)" />
+       gradientTransform="translate(0.24609948,-0.59326537)" />
     <linearGradient
        inkscape:collect="always"
        id="linearGradient884">
@@ -195,20 +195,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="35.22907"
-     inkscape:cy="30.557114"
+     inkscape:zoom="1.979899"
+     inkscape:cx="7.3156037"
+     inkscape:cy="40.624468"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      units="px"
      inkscape:window-width="1920"
-     inkscape:window-height="1031"
+     inkscape:window-height="1028"
      inkscape:window-x="0"
      inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:pagecheckerboard="0" />
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata1012">
     <rdf:RDF>
@@ -217,6 +216,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -245,7 +245,7 @@
     <g
        id="g906"
        style="opacity:0.333664"
-       transform="translate(-0.0794191,-0.29918162)">
+       transform="translate(0.24609948,-0.59326537)">
       <path
          d="m 16.503128,12.621969 c -2.04385,-0.0044 -3.689072,2.396953 -4.52054,5.011365 -0.94213,2.962326 -2.6347223,4.035023 -4.22046,4.442595 l 10.665245,4.75e-4 0.658665,-1.285138 -2.456091,-0.03064 c -2.160976,-0.184528 -2.591508,-2.316585 -2.465902,-2.995502 0.207729,-1.332219 0.886453,-3.426668 2.338852,-5.143204 z m 0.787332,0 -0.658668,1.285137 2.456093,0.03064 c 2.160974,0.184528 2.591506,2.316581 2.4659,2.995501 -0.20773,1.332218 -0.886279,3.426668 -2.338736,5.143202 2.043849,0.0044 3.689072,-2.396954 4.520539,-5.011366 0.94213,-2.962323 2.634723,-4.034849 4.220402,-4.442419 z"
          fill="#ffffff"
@@ -290,7 +290,7 @@
          style="fill:#372a4c;fill-opacity:0.100519" />
     </g>
     <path
-       d="m 15.515787,12.05649 c -2.04385,-0.0044 -3.689071,2.396953 -4.520539,5.011365 -0.94213,2.962326 -2.6347222,4.035023 -4.2204599,4.442595 l 10.6652439,4.75e-4 0.658665,-1.285138 -2.456091,-0.03064 c -2.160976,-0.184528 -2.591508,-2.316585 -2.465902,-2.995502 0.207729,-1.332219 0.886453,-3.426668 2.338852,-5.143204 z m 0.787332,0 -0.658668,1.285137 2.456093,0.03064 c 2.160974,0.184528 2.591506,2.316581 2.4659,2.995501 -0.20773,1.332218 -0.886279,3.426668 -2.338736,5.143202 2.043849,0.0044 3.689072,-2.396954 4.520539,-5.011366 0.94213,-2.962323 2.634723,-4.034849 4.220402,-4.442419 z"
+       d="m 15.841307,11.762406 c -2.043851,-0.0044 -3.689072,2.396953 -4.520541,5.011365 -0.94213,2.962326 -2.6347216,4.035023 -4.2204593,4.442595 l 10.6652453,4.75e-4 0.658665,-1.285138 -2.456092,-0.03064 c -2.160976,-0.184528 -2.591508,-2.316585 -2.465902,-2.995502 0.20773,-1.332219 0.886453,-3.426668 2.338852,-5.143204 z m 0.787332,0 -0.658668,1.285137 2.456093,0.03064 c 2.160974,0.184528 2.591506,2.316581 2.4659,2.995501 -0.20773,1.332218 -0.886279,3.426668 -2.338736,5.143202 2.043849,0.0044 3.689072,-2.396954 4.520539,-5.011366 0.94213,-2.962323 2.634723,-4.034849 4.220402,-4.442419 z"
        fill="#ffffff"
        fill-opacity="0.52107"
        stroke-width="1.048"
